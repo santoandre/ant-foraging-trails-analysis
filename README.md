@@ -2,7 +2,9 @@
 
 Author: Santiago Santoandre - https://twitter.com/santisantoandre
 #################################################################
+
 Ant foraging trails analysis
+
 #################################################################
 
 A partir de tracks de hormigas sobre una imagen (mapa de bits)
