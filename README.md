@@ -1,6 +1,7 @@
 # ant-foraging-trails-analysis
 
-Author: Santiago Santoandre - https://twitter.com/santisantoandre
+Author: Santiago Santoandré - https://twitter.com/santisantoandre
+https://github.com/santoandre
 #################################################################
 
 Ant foraging trails analysis
